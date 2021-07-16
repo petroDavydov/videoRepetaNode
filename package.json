@@ -1,20 +1,20 @@
 {
   "name": "videorepetanode",
   "version": "1.0.0",
-  "description": "use by video",
+  "description": "",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "videorepetanode"
+    "url": "git+https://github.com/petroDavydov/videoRepetaNode.git"
   },
-  "keywords": [
-    "use",
-    "video",
-    "node"
-  ],
+  "keywords": [],
   "author": "Petro Davydov <petrodavydov@gmail.com>",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/petroDavydov/videoRepetaNode/issues"
+  },
+  "homepage": "https://github.com/petroDavydov/videoRepetaNode#readme"
 }
